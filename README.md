@@ -3,6 +3,7 @@
 팀원: 고정찬(조장), 김진태, 박새롬, 오경훈
 <br>
 원본 git 주소: https://github.com/wjdcks1238/EveryOneRecipe
+프로젝트 URL: http://34.106.155.23:8080/everyrecipe/
 ## Contents
 1. 소개
 2. 설계 주안점
