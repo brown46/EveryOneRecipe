@@ -1,7 +1,8 @@
 # 모두의 레시피🍽
 
 팀원: 고정찬(조장), 김진태, 박새롬, 오경훈
-
+<br>
+원본 git 주소: https://github.com/wjdcks1238/EveryOneRecipe
 ## Contents
 1. 소개
 2. 설계 주안점
@@ -61,7 +62,8 @@
 
 ---
 ## Schedule
-<img width="1387" alt="일정관리" src="https://github.com/wjdcks1238/EveryOneRecipe/assets/111834753/02b6947b-89e5-46e1-a0ab-0dfa61c5324e">
+<img width="938" alt="일정관리 개인용" src="https://github.com/brown46/EveryOneRecipe/assets/111834753/0e0e8afc-8673-48ee-9601-3bb1fa17861c">
+
 
 
 ---
@@ -107,32 +109,9 @@
 
 ---
 ## 프로젝트 기능 구현
-<h3>고정찬</h3>
- 
- <details>
-  <summary>게시물(댓글 추가/수정/삭제, 게시글 및 댓글 신고</summary>
- </details>
- 
- <details>
-  <summary>검색</summary>
- </details>
- 
- <details>
-  <summary>관리 페이지 Dashboard 메인</summary>
- </details>
- 
- <details>
-  <summary>검색어 관리</summary>
- </details>
- 
- <details>
-  <summary>검색추이(키워드 별 검색추이/일자 별 검색추이)</summary>
- </details>
 
-<h3>김진태</h3>
 
-<details>
-<summary>게시물(작성/수정, 상세/전체보기)</summary>
+<h2>게시물(작성/수정, 상세/전체보기)</h2>
 </br>
 </br>
 </br>
@@ -169,10 +148,8 @@
 </br>
 </br>
 <img width="1920" alt="전체 게시글2" src="https://github.com/wjdcks1238/EveryOneRecipe/assets/111834753/6696bd60-ae8c-4d78-87e3-f92d864080a8">
-</details>
 
-<details>
-<summary>회원 프로필</summary>
+<h2>회원 프로필</h2>
 </br>
 </br>
 </br>
@@ -181,10 +158,10 @@
 </br>
 </br>
 <img width="1920" alt="내 정보 보기2" src="https://github.com/wjdcks1238/EveryOneRecipe/assets/111834753/ae766ac2-94b6-4004-9c84-8464c92cab07">
-</details>
 
-<details>
-<summary>소셜 네트워크 기능(회원 팔로우, 좋아요, 북마크, 레시피 추천)</summary>
+
+
+<h2>소셜 네트워크 기능(회원 팔로우, 좋아요, 북마크, 레시피 추천)</h2>
 </br>
 </br>
 </br>
@@ -204,10 +181,10 @@
 </br>
 </br>
 <img width="1920" alt="레시피 추천3" src="https://github.com/wjdcks1238/EveryOneRecipe/assets/111834753/2b699b85-b073-4e9b-866b-1593b5c64b78">
-</details>
 
-<details>
-<summary>관리페이지(신고 관리, 게시글/댓글 블라인드, 회원 제재)</summary>
+
+
+<h2>관리페이지(신고 관리, 게시글/댓글 블라인드, 회원 제재)</h2>
 </br>
 </br>
 <img width="1920" alt="게시글, 댓글 신고 관리" src="https://github.com/wjdcks1238/EveryOneRecipe/assets/111834753/a61ff844-2af3-4583-aca4-e1e8cfeaff46">
@@ -247,6 +224,6 @@
 </br>
 </br>
 <img width="1920" alt="회원 차단 관리4" src="https://github.com/wjdcks1238/EveryOneRecipe/assets/111834753/2240c4e1-5a58-4754-be34-f61c63f7c6b7">
-</details>
+
 
 
